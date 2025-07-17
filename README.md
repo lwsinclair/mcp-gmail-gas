@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kazuph-mcp-gmail-gas-badge.png)](https://mseep.ai/app/kazuph-mcp-gmail-gas)
+
 # MCP Gmail
 
 Model Context Protocol server for Gmail integration. This allows Claude Desktop (or any MCP client) to interact with your Gmail account through Google Apps Script.
